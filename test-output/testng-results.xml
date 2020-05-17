@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31059" started-at="2020-05-17T17:23:53Z" finished-at="2020-05-17T17:24:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31059" started-at="2020-05-17T17:23:53Z" finished-at="2020-05-17T17:24:24Z">
+      <class name="com.keywordframework.qa.tests.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.keywordframework.qa.tests.LoginTest@53ca01a2]" name="loginTest" duration-ms="31034" started-at="2020-05-17T17:23:53Z" finished-at="2020-05-17T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.keywordframework.qa.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
